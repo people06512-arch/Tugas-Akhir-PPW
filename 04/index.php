@@ -236,4 +236,5 @@ require_once __DIR__ . '/includes/header.php';
 </section>
 
 <!-- memanggil file footer.php -->
-<?php require_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once __DIR__ . '/includes/footer.php'; ?>/ /   P e r u b a h a n   d a r i   c a b a n g   m a i n  
+ 
