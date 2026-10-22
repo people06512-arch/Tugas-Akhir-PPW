@@ -8,7 +8,7 @@
 // memanggil file functions.php
 require_once __DIR__ . '/includes/functions.php';
 
-$page_title = 'Uji Fungsi Modular - Percobaan 1';
+$page_title = 'SIMA-Modul 4 PHP Server Side Dinamis';
 
 // Ambil keyword pencarian jika ada
 
